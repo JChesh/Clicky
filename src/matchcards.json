@@ -1,0 +1,63 @@
+    
+[
+    {
+      "id": 1,
+      "image": "https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Magazine/04April/CR-Cars-InlineHero-ComingSoon-Toyota-Supra-2-19",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.motor1.com/images/mgl/GNqnx/s3/most-expensive-cars-lead.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://specials-images.forbesimg.com/imageserve/5d35eacaf1176b0008974b54/960x0.jpg?cropX1=790&cropX2=5350&cropY1=784&cropY2=3349",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.vox-cdn.com/thumbor/HtsyeSUY5qMjCaPLtMIO1IoQ21Y=/0x0:2880x1350/1200x800/filters:focal(1102x445:1562x905)/cdn.vox-cdn.com/uploads/chorus_image/image/56659171/model_s_001.0.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://the-drive-2.imgix.net/https%3A%2F%2Fapi.thedrive.com%2Fwp-content%2Fuploads%2F2018%2F08%2F516346.jpg%3Fquality%3D85?w=1440&auto=compress%2Cformat&ixlib=js-1.4.1&s=c40d4168f8d70db845d99e8018486853",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://image.redbull.com/rbcom/010/2015-09-04/1331745454896_7/0100/0/1/mercedes-coolest-racing-cars-amg-c63-dtm.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://www.chicagoautoshow.com/assets/1/7/2020-Ford-Mustang-GT500-520.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://www.chicagomotorcars.com/wp-content/uploads/2018/08/slide5min.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://charge.cars/static/Charge-cars-07-c11829a4778bfd8dbc51738c7827c048.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://i.kinja-img.com/gawker-media/image/upload/s--j7YqF0WA--/c_scale,f_auto,fl_progressive,q_80,w_800/wveqfjd4jlyu1licclvs.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Cars/July/CR-Cars-InlineHero-2019-Ford-Explorer-Sport-f-7-19",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://www.thinkingofcars.co.uk/media/images/72229563/p2.audi-r8-petrol-coupe.jpg",
+      "clicked": false
+    }
+  ]
